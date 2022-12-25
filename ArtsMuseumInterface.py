@@ -50,7 +50,7 @@ def new_script(cur, cnx):
         print(("%s" % (admin_file)))
         print("An error has occured")
 
-def search(cur):    # Guest and data entry user function for searching up data via a series of prompts.
+def search(cur):    # Beginning of code created by Theodore Hoang
     loop = True
     yes_no = ["Y","N"]
     while loop == True:
@@ -205,7 +205,7 @@ def search(cur):    # Guest and data entry user function for searching up data v
                     if col == None:
                         col = "Null"
                     print("{:<{x}}".format(col,x=x),end="")
-            print()
+            print() # End of code created by Theodore Hoang
 
 
 def add(cur, cnx): # Data entry user function for inserting a tuple.
