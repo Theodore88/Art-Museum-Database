@@ -13,12 +13,10 @@ To utilize the application created in this project follow the following steps:
 
 To test the functionality of the data entry and admin roles the following credentials are needed:
 
-Admin Username and Password
-
+#### Admin Username and Password
 Username: db_admin
 Password: adminpass
 
-Data Entry User Username and Password
-
+#### Data Entry User Username and Password
 Username: data_entry
 Password: dataentrypass
