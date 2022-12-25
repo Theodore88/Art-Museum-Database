@@ -3,7 +3,7 @@
 ## Project Description
 This is a copy of the repository used in creating the group final project for the class "ENSF 300 Software Engineering Practices for Data Management". The terminal-based application is created using python and interfaces with a database created with SQL. The application allows for different user role selections. Based on user's role, users can data enter, retrieve and manipulate data. 
 
-Included in this repository is the SQL script used in the initialization of the database, the Python file for the art museum application and a pdf containing task distribution and the data models used in planning this project.
+Included in this repository is the SQL script used in the initialization of the database, a Python file for the art museum application, a Python file exclusively containing the code for my portion of the arts museum application and a pdf containing task distribution and the data models used in planning this project.
 
 ## Project Installation
 To utilize the application created in this project follow the following steps:
